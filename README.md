@@ -1,4 +1,4 @@
-# Surfs Up Querries
+# Surfs Up Sqlite
 
 
 ## Overview
